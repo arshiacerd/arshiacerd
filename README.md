@@ -1,11 +1,12 @@
 
-### Hello World, I'm Arshia 👋
+### Hi there, I'm Arshia 👋
 <!--
 **arshiacerd/arshiacerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Gist About me:
 
-- 🔭 I’m currently working on my course- 🌱 
+- 🔭 I’m currently working on my course- 
+  🌱 Learning everyday
 - 👯 I’m looking to collaborate on an open source
 -
 -
