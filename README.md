@@ -1,5 +1,5 @@
 
-### Hi there, I'm Arshia 👋
+### Hi there 👋, I'm Arshia 
 
 Gist About me:
 
