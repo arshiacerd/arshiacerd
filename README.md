@@ -1,4 +1,4 @@
-![arshiaGithub](https://user-images.githubusercontent.com/62174601/137615104-51a6fb53-93ee-40e3-a864-f17afd6546f1.gif)
+
 ### Hello World, I'm Arshia 👋
 <!--
 **arshiacerd/arshiacerd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
